@@ -1,4 +1,4 @@
-# ..... webshop
+# Telefon webshop
 
 ## Kezdőlap felépítése 
 
