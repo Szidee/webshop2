@@ -2,6 +2,8 @@
 
 ## Kezdőlap felépítése 
 
+- Dávid része
+
 - Termékek oldal
 - Egy termék megjelenítése
 - Árak megjelenítése
