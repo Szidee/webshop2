@@ -33,3 +33,5 @@
 
 
 ## Admin részleg ábrája
+
+![Tux, the Linux mascot](/drotvazak/admin.png)

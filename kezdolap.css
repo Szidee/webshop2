@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 212, 156);
+}
+
+main{
+    display: grid;
+    grid-template-columns:  "h h"
+                            "n n"
+                            "as ar"
+                            "f f";
+}
+
+header {
+    grid-area: h;
+}
+nav {
+    grid-area: n;
+}
+article {
+    grid-area: ar;
+}
+aside {
+    grid-area: as;
+}
+footer {
+    grid-area: f;
+}
