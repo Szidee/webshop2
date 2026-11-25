@@ -21,7 +21,7 @@
 
 ## Kosár ábrája
 
-
+ ![Tux, the Linux mascot](/drotvazak/kosar.png)
 
 ## Admin részleg felépítése
 
