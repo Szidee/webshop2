@@ -1,0 +1,30 @@
+# ..... webshop
+
+## Kezdőlap felépítése 
+
+- Termékek oldal
+- Egy termék megjelenítése
+- Árak megjelenítése
+- Termék nevének megjelenítése
+- Menüpontok
+- Raktáron van-e
+- Kosárba helyezem gomb
+
+
+## Kezdőlap ábrája
+
+ ![Tux, the Linux mascot](/drotvazak/kezdolap.png)
+
+ ## Kosár felépítése
+
+
+
+## Kosár ábrája
+
+
+
+## Admin részleg felépítése
+
+
+
+## Admin részleg ábrája
