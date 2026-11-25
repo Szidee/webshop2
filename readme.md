@@ -1,4 +1,4 @@
-# Telefon webshop
+# ..... webshop
 
 ## Kezdőlap felépítése 
 
@@ -19,7 +19,10 @@
 
  ## Kosár felépítése
 
-
+- Termék(ek) megjelenitése
+- Ár(ak) és végső ár megjelenitése
+- Navigácio
+- Vásárlás gomb
 
 ## Kosár ábrája
 
